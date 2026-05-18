@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongobd": "^0.0.1-security.0"
+  }
+}
